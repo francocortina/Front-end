@@ -1,0 +1,5 @@
+#line::first-line {font-weight: bold;}
+#line::first-letter {font-size: 40px}
+.seleccion::selection { background-color: yellow }
+.seleccion2::selection {background-color: blue}
+.filete::after {content: "";display: block;height: 2px; width: 100px;background-color: pink;}

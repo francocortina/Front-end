@@ -1,0 +1,10 @@
+body{background-color: #030301; font-size: 50px; text-align: center;font-family: 'BioRhyme', serif;}
+.container{background-color: #FFFFF3;margin:60px; padding: 40px auto 50px;max-width: 700;box-sizing: 700px}
+h1{color: #17315A;text-decoration: underline;font-family: 'Russo One', sans-serif;}
+h2{  color: #118C67}
+h2 span{font size:35px;font-family: 'Monoton', cursive;}
+.intro{font-size: 30px;background-color: #17BEBB;font-family: 'Russo One', sans-serif;padding: auto 30px;max-width: 600px;box-sizing: 600px; line-height:25px; margin: 0 auto }
+.utn{font-size: 35px; color: #118C67}
+.utn:hover{font-size: 60px; color:#EF3E36 ; background-color: #2E282A;font-family: 'Rubik Mono One', sans-serif;text-decoration: none;}
+.nada{font-size: 20px}
+img{max-width: 100%;}

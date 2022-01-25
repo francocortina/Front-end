@@ -1,0 +1,7 @@
+body{font-family: 'Montserrat', sans-serif;color: #F0F7F4}
+.container {max-width: 900px; margin: 30px auto 0;background-color: #05F140; padding: 50px;box-sizing; }
+h1{font-size: 80px;text-decoration: underline;text-align: center;font-weight: 300;}
+p{line-height: 25px;margin-bottom: 40px;}
+.destacado{font-size: 32px;line-height: 40px;width: 900px;box-sizing:900px;padding: 0px 10px 50px 0px }
+.btn{background-color: fff;color:#DB5461;text-decoration: none;padding: 4px}
+.btn:hover{font-size: 60px; color: #FC440F;background-color:#1F01B9;font-family: 'Lilita One', cursive; }

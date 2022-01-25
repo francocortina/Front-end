@@ -1,0 +1,16 @@
+*{box-sizing: border-box;}
+nav{text-align: center;padding: 100px}
+nav a{text-decoration: none;margin-right: 10px;color: #030102}
+.container{text-align: center;overflow: auto;width: 1084px;margin: 0 auto}
+.grande{width: 100%}
+.grande:hover{-webkit-box-shadow: 6px 6px 6px 6px rgba(0,0,0,.5);
+box-shadow: 6px 6px 6px 6px rgba(0,0,0,.5);}
+img{display: inline-block;}
+.rag{float: left;width: 50%;padding:0 20; }
+.rag:hover{-webkit-box-shadow: 6px 6px 6px 6px rgba(0,0,0,.5);
+box-shadow: 6px 6px 6px 6px rgba(0,0,0,.5);}
+.fig{float: left ;width: 50%; }
+.fig:hover{-webkit-box-shadow: 6px 6px 6px 6px rgba(0,0,0,.5);
+box-shadow: 6px 6px 6px 6px rgba(0,0,0,.5);}
+.izq{width: 100%}
+.der{width: 100%}

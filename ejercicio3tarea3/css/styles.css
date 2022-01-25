@@ -1,0 +1,19 @@
+body{background-color: #fff;font-size: 25px}
+.encabezado{background-color: #89FC00;text-align: center;margin: 0px}
+.intro{background-color: #05F140}
+.imagen{background-color: #05F140;margin: 0 auto ;}
+.opciones{background-color: #248293;text-align: right;margin: 0px}
+.segundo{margin-right: 70px;}
+nav a{text-decoration: none;margin-right: 50px;color: #fff}
+nav a:hover{font-size: 50px}
+h1{font-size: 50px;margin: 0px;font-family: 'Libre Baskerville', serif;}
+h1 span{color: #41D3BD;}
+h2{font-size: 40px;margin: 0px}
+h3{font-size: 40px;margin: 0px}
+.parrafo{margin-bottom: 0px}
+.uno{background-color: #44CCFF;margin: 0px;}
+.div1{text-align:center;}
+.dos{background-color: #44CCFF;margin: auto 300px;box-sizing: border-box;}
+.div2{text-align: center;max-width: 300px;margin:0 auto ;box-sizing:border-box;}
+.pie{text-align: center;} 
+

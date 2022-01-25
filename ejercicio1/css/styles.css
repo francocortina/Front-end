@@ -1,0 +1,9 @@
+body{background-color: #333; color : #fff; margin: 60px;font-family: 'Karla', sans-serif;}
+h1,h2 {font-family: 'Anton', sans-serif; font-weight: normal;}
+h1{ font-size: 40px;  letter-spacing: 6px; margin-bottom: 0}
+h2{ font-size: 60px; letter-spacing: 4px; color: #FF6700; margin-top: 10px;}
+h2 span {color: #CBA328;}
+p{font-size: 20px;line-height: 38px;}
+a{font-size: 40px;text-decoration: none; color: #A2D3C2;}
+a:hover{font-size: 60px; color: #C73E1D; background-color: #ddd}
+ul{background-color: #555; list-style: none}

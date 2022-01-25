@@ -1,0 +1,13 @@
+body {font-size: 20px; background-color: #030303; color: #FCFCFC; margin-top: 40px;text-align: center;}
+
+
+h1{font-size: 100px; color: #EFEA5A;}
+
+h2{font-size: 40px; color: #FF0022;font-family: 'Permanent Marker', cursive;}
+
+h2 span {font-size: 45px; color: #011627}
+
+
+a{font-size: 50px; text-decoration: none; color: #E9DF00; }
+
+a:hover{font-size: 80px; color: #AB2346; font-family: 'Anton', sans-serif;} 

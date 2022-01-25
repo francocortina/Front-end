@@ -1,0 +1,7 @@
+.cuadrado{background-color: #78A1BB;}
+.container{border:10px solid #EBF5EE;width:40%;overflow: hidden;-webkit-box-shadow: 6px 6px 6px 6px rgba(0,0,0,.5);
+box-shadow: 6px 6px 6px 6px rgba(0,0,0,.5);background-color: #EBF5EE;margin: 0 auto}
+img{width: 100%;transition: 5s;}
+img:hover{transform: scale(1.3);filter: brightness(84%) hue-rotate(135deg) saturate(530%);
+-webkit-filter: brightness(84%) hue-rotate(135deg) saturate(530%);
+-moz-filter: brightness(84%) hue-rotate(135deg) saturate(530%);}
